@@ -30,12 +30,12 @@ html
     padding-left: 10%;
     padding-right: 10%;
     will-change: transform;
-    justify-content: flex-end;
 }
 
-
-
-
+section:nth-child(odd)
+{
+    justify-content: flex-end;
+}
 
 #img1{
     margin-left: 10000px;
@@ -50,11 +50,8 @@ img{
     
 }
 img:hover{
-    border-radius:10px;
-    border-color: blue;
 }
 h2{
     margin-left: 400px;
     
 }
-
