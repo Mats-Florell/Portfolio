@@ -21,7 +21,7 @@ html
 {
     display: flex;
     align-items: center;
-    height: 100vh;
+    flex-direction: column;
     position: relative;
     font-family: 'Cabin', sans-serif;
     color: #ffeded;
@@ -32,10 +32,7 @@ html
     will-change: transform;
 }
 
-section:nth-child(odd)
-{
-    justify-content: flex-end;
-}
+
 
 #img1{
     margin-left: 10000px;

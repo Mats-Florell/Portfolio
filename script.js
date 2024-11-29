@@ -193,5 +193,5 @@ document.getElementById("imgTimeplan").onclick = function() {
     location.href = 'timeplan/mintimeplan.html'
 }
 document.getElementById("imgbarnebok").onclick = function() {
-    location.href = 'Barnebok/Barnebok.html'
+    location.href = 'BarneBok/Barnebok.html'
 }
