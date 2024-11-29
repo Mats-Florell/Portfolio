@@ -21,7 +21,7 @@ html
 {
     display: flex;
     align-items: center;
-    height: 753px;
+    flex-shrink: 0;
     position: relative;
     font-family: 'Cabin', sans-serif;
     color: #ffeded;
@@ -56,5 +56,5 @@ h2{
     
 }
 #ContactSection{
-    margin-top: auto;
+
 }
