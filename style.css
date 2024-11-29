@@ -21,7 +21,7 @@ html
 {
     display: flex;
     align-items: center;
-    height: 100vh;
+    height: 753px;
     position: relative;
     font-family: 'Cabin', sans-serif;
     color: #ffeded;
@@ -54,4 +54,7 @@ img:hover{
 h2{
     margin-left: 400px;
     
+}
+#ContactSection{
+    height: 100px;
 }
