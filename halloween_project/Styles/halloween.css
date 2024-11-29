@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #3b013b;
+}
+#Overskrift{
+    color: #e0a72b;
+    text-align: center;
+    
+}
+.halloweengul{
+    background-color: #e0a72b;
+    float: left;
+    margin-left: 6%;
+    padding: 1%;
+    width: 520px;
+    height: 590px;
+    margin-bottom: 3%;
+    padding-bottom: 8%;
+}
+.articleimg{
+    height:300px;
+    margin: 0.5%;
+    border: 3px solid black;
+    float:left;
+
+}
+.Paragraph{
+    display: flex;
+    flex-wrap: wrap;
+    inline-size: 40%;
+    overflow-wrap: break-word;
+    float: right;
+    margin: 0.5%;
+}
+@media screen and (max-width: 200px) {
+    .halloweengul{
+
+        float: none;
+    }
+}
+table{
+    float: right;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.stamp{
+    background-color: #e0a72b;
+    float: left;
+    margin-left: 1%;
+    padding: 1%;
+    width: 520px;
+    height: 590px;
+    border-style: dotted;
+    border-width:15px;
+    border-color: #3b013b;
+    border-radius: 8px;
+}
+#bottomtextingsec1{
+    float: left;
+}
+#bottomtextingsec2{
+    clear: both;
+}
+.skjema{
+    text-align: center;
+}
