@@ -30,12 +30,11 @@ html
     padding-left: 10%;
     padding-right: 10%;
     will-change: transform;
-}
-
-section:nth-child(odd)
-{
     justify-content: flex-end;
 }
+
+
+
 
 
 #img1{
