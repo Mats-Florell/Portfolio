@@ -19,9 +19,8 @@ html
 
 .section
 {
-    display: flex;
+    display: grid;
     align-items: center;
-    flex-direction: column;
     position: relative;
     font-family: 'Cabin', sans-serif;
     color: #ffeded;
@@ -57,5 +56,6 @@ h2{
 #contactSection{
 
     height: 50vh;
+
 
 }
