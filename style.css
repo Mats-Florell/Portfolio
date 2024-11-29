@@ -19,7 +19,8 @@ html
 
 .section
 {
-    display: block;
+    display: flex;
+    flex-direction: column;
     align-items: center;
     position: relative;
     font-family: 'Cabin', sans-serif;
