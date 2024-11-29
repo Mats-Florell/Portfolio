@@ -180,18 +180,18 @@ const tick = () =>
 }
 
 tick()
-function imgbib(){
+document.getElementById("imgbib").onclick = function() {
     window.location.href = 'library/bib.html'
 }
-function imgGallery(){
+document.getElementById("imgGallery").onclick = function() {
     window.location.href = 'library/Gallery.html'
 }
-function imgHalloween(){
+document.getElementById("imgHalloween").onclick = function() {
     window.location.href = 'halloween_project/halloween.html'
 }
-function imgTimeplan(){
+document.getElementById("imgTimeplan").onclick = function() {
     window.location.href = 'timeplan/mintimeplan.html'
 }
-function imgbarnebok(){
+document.getElementById("imgBarnebok").onclick = function() {
     window.location.href = 'Barnebok/Barnebok.html'
 }
