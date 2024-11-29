@@ -19,7 +19,7 @@ html
 
 .section
 {
-    display: grid;
+    display: block;
     align-items: center;
     position: relative;
     font-family: 'Cabin', sans-serif;
