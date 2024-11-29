@@ -192,6 +192,6 @@ document.getElementById("imgHalloween").onclick = function() {
 document.getElementById("imgTimeplan").onclick = function() {
     location.href = 'timeplan/mintimeplan.html'
 }
-document.getElementById("imgBarnebok").onclick = function() {
+document.getElementById("imgbarnebok").onclick = function() {
     location.href = 'Barnebok/Barnebok.html'
 }

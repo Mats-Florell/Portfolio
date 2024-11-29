@@ -50,8 +50,14 @@ img{
     
 }
 img:hover{
+    border-radius:10px;
 }
 h2{
     margin-left: 400px;
     
+}
+#contactSection{
+
+    height: 50vh;
+
 }
