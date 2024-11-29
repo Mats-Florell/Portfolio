@@ -21,7 +21,6 @@ html
 {
     display: flex;
     align-items: center;
-    flex-direction: column;
     position: relative;
     font-family: 'Cabin', sans-serif;
     color: #ffeded;
@@ -30,7 +29,6 @@ html
     padding-left: 10%;
     padding-right: 10%;
     will-change: transform;
-
 }
 
 
@@ -55,9 +53,4 @@ h2{
     margin-left: 400px;
     
 }
-#contactSection{
 
-    height: 50vh;
-
-
-}
