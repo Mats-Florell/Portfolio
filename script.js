@@ -181,17 +181,17 @@ const tick = () =>
 
 tick()
 document.getElementById("imgbib").onclick = function() {
-    window.location.href = 'library/bib.html'
+    location.href = 'library/bib.html'
 }
 document.getElementById("imgGallery").onclick = function() {
-    window.location.href = 'library/Gallery.html'
+    location.href = 'library/Gallery.html'
 }
 document.getElementById("imgHalloween").onclick = function() {
-    window.location.href = 'halloween_project/halloween.html'
+    location.href = 'halloween_project/halloween.html'
 }
 document.getElementById("imgTimeplan").onclick = function() {
-    window.location.href = 'timeplan/mintimeplan.html'
+    location.href = 'timeplan/mintimeplan.html'
 }
 document.getElementById("imgBarnebok").onclick = function() {
-    window.location.href = 'Barnebok/Barnebok.html'
+    location.href = 'Barnebok/Barnebok.html'
 }
