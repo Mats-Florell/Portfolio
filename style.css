@@ -48,6 +48,7 @@ img{
 }
 img:hover{
     border-radius:10px;
+    border-color: blue;
 }
 h2{
     margin-left: 400px;
