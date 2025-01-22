@@ -24,13 +24,14 @@
             ?>
         </nav>
     </section>
-    <footer>
-        <h2>Contact me</h2>
-    </footer>
+ 
     
     <script src="three.min.js" type="module"></script>
     <script src="gsap.min.js" type="module"></script>
     <script src="script.js" type="module"></script>
 
 </body>
+<footer>
+        <h2>Contact me</h2>
+    </footer>
 </html>
