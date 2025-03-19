@@ -18,6 +18,6 @@
             <input type="submit" value="Submit">
         </form>
 
-        <footer> <a href="../index.php">Back to Portfolio</a></a></li></footer>
+        <footer> <a href="../index.php">Back to Portfolio</a></footer>
     </body>
 </html>

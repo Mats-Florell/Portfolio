@@ -22,6 +22,6 @@
             echo "du trenger " . $billetterTotal . " billetter <br>";
             echo "det vil koste " . $billettPrisTotal. "kr ";
             ?>
-        <footer> <a href="../index.php">Back to Portfolio</a></a></li></footer>    
+        <footer> <a href="../index.php">Back to Portfolio</a></footer>    
     </body>
 </html>
