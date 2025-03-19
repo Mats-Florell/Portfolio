@@ -12,6 +12,6 @@
     Cup three contents: <input type="text" name="cupThree"><br>
     <input type="submit">
 </form>
-<footer><a href="../index.php">Back to Portfolio</a></footer>
+<footer> <a href="../index.php">Back to Portfolio</a></a></li></footer>
 </body>
 </html>

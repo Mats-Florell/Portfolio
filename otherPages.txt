@@ -1,9 +1,9 @@
-            <a href='library/bib.html'><img src="Screenies/bib.png" height="170px" id="imgbib"></a>
-            <a href='library/Gallery.html'><img src="Screenies/Gallery.png" height="170px" id="imgGallery"></a>
-            <a href='halloween_project/halloween.html'><img src="Screenies/Halloween.png" height="170px" id="imgHalloween"></a>
-            <a href='timeplan/mintimeplan.html'><img src="Screenies/timeplan.png" height="170px" id="imgTimeplan"></a>
-            <a href='Barnebok/Barnebok.html'><img src="Screenies/barnebok.png" height="170px" id="imgbarnebok"></a>
-            <a href='Byttekopper/index.php'><img src="Screenies/cupSort.png" height="170px" id="imgbarnebok"></a>
-            <a href='helloWorld/index.php'><img src="Screenies/helloWorld.png" height="170px" id="imgbarnebok"></a>
-            <a href='KinoBillett\index.php'><img src="Screenies/kinoBilleter.png" height="170px" id="imgbarnebok"></a>
-            <a href='Tippespill\index.php'><img src="Screenies/tippespill.png" height="170px" id="imgbarnebok"></a>
+            <li><a href='library/bib.html'><img src="Screenies/bib.png" height="170px" id="imgbib"></a><span class="hide">"Dette er bibliotek siden min fra VG1"</span></li>
+            <li><a href='library/Gallery.html'><img src="Screenies/Gallery.png" height="170px" id="imgGallery"></a><span class="hide">"Dette er galleri siden fra bibliteks oppgaven"<span></li>
+            <li><a href='halloween_project/halloween.html'><img src="Screenies/Halloween.png" height="170px" id="imgHalloween"></a><span class="hide">"Dette var en prøve oppgave"</span></li>
+            <li><a href='timeplan/mintimeplan.html'><img src="Screenies/timeplan.png" height="170px" id="imgTimeplan"></a><span class="hide">"Dette var timeplanen min på VG1 i html"</span></li>
+            <li><a href='Barnebok/Barnebok.html'><img src="Screenies/barnebok.png" height="170px" id="imgbarnebok"></a><span class="hide">"Dette er en barnebok som jeg lagde på VG1"</span></li>
+            <li><a href='Byttekopper/index.php'><img src="Screenies/cupSort.png" height="170px" id="imgbarnebok"></a><span class="hide">"dette er en simpel øvings oppgave i php"</span></li>
+            <li><a href='helloWorld/index.php'><img src="Screenies/helloWorld.png" height="170px" id="imgbarnebok"></a><span class="hide">"dette er en simpel øvings oppgave i php"</span></li>
+            <li><a href='KinoBillett\index.php'><img src="Screenies/kinoBilleter.png" height="170px" id="imgbarnebok"></a><span class="hide">"dette er en simpel øvings oppgave i php"</span></li>
+            <li><a href='Tippespill\index.php'><img src="Screenies/tippespill.png" height="170px" id="imgbarnebok"></a><span class="hide">"dette er en simpel øvings oppgave i php"</span></li>

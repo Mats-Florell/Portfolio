@@ -11,6 +11,6 @@
     <?php 
     echo "Look mom! im coding in PHP!" //skriv til dokument
     ?>
-    <footer><a href="../index.php">Back to Portfolio</a></footer>
+    <footer> <a href="../index.php">Back to Portfolio</a></a></li></footer>
 </body>
 </html>

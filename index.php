@@ -16,12 +16,14 @@
         <h2>My projects</h2>
     </section>
     <section class="section">
-        <nav>
+            <div class="sites">
+          	<ul>
             <?php
                 $pages = fopen("otherPages.txt", "r") or die("Unable to open file!");
                 echo fread($pages, filesize("otherPages.txt"));
                 fclose($pages);
             ?>
+            </ul>
         </nav>
     </section>
  
