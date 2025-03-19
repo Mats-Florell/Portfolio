@@ -42,10 +42,10 @@ section:nth-child(odd)
 }
 
 .hide{
-    display: none;
     font-size: 10px;
     margin:0px;
     padding: 0px;
+    display: none;
 }
 h2{
     margin-left: 400px;
@@ -66,17 +66,19 @@ ul{
   }
   
   .sites ul li {
-      background: #fff;
+      background: #e6faff;
       display: inline;
       list-style: none;
         float: left;
-      margin: 2px 0 0 2px;
-        padding: 0;
-        text-align:center; 
+      margin: 4px 0 0 4px;
+      padding: 0;
+      text-align:center; 
       color: #000;
-      border: 1px solid #ccc;
       border-top: 0px;
-        height: 210px;
+      height: 200px;
+      width: 316px;
+      border: 6px solid #d4efff;
+      border-radius: 3px;
   }
   
   .sites ul li a {
@@ -101,6 +103,6 @@ ul{
   }
   
   .sites ul li a img {
-    border: 6px solid #e1d9ec;
-    border-radius: 3px;
+    border: 6px solid #d4efff;
+
   }
